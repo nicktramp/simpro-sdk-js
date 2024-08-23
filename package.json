@@ -1,0 +1,22 @@
+{
+  "name": "@nicktramp/simpro-sdk-js",
+  "version": "0.4.0",
+  "description": "Unofficial simPRO SDK for scripting data changes.",
+  "main": "mod.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicktramp/simpro-sdk-js.git"
+  },
+  "author": "elliotgrigor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicktramp/simpro-sdk-js/issues"
+  },
+  "homepage": "https://github.com/nicktramp/simpro-sdk-js#readme"
+}
